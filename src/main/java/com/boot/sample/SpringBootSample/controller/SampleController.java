@@ -8,6 +8,6 @@ public class SampleController {
 
 	@GetMapping("/api/sample")
 	public String sampleAPI(){
-		return "Sample Response 2";
+		return "Sample Response 3";
 	}
 }
